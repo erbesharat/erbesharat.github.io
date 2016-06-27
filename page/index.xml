@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on Erfan Besharat&#39;s Blog </title>
+      <title>Pages on Erfan Besharat&#39;s Blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://erbesharat.github.io/</link>
+    <link>https://erbesharat.github.io/page/</link>
     <language>en-us</language>
     
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
@@ -24,22 +24,6 @@
 &lt;p&gt;You can reach me on &lt;a href=&#34;https://twitter.com/erbesharat&#34;&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/a&gt; or by &lt;a href=&#34;mailto:erbesharat@gmail.com&#34;&gt;&lt;strong&gt;email&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can also check my open-source works on &lt;a href=&#34;https://github.com/erbesharat&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World, World Hello :)</title>
-      <link>https://erbesharat.github.io/post/hello-world/</link>
-      <pubDate>Mon, 27 Jun 2016 16:55:46 IRDT</pubDate>
-      
-      <guid>https://erbesharat.github.io/post/hello-world/</guid>
-      <description>&lt;p&gt;At this moment i have no idea what i&amp;rsquo;m gonna write in this blog, but i think my posts will be about &lt;strong&gt;Unity&lt;/strong&gt; game engine and &lt;strong&gt;Golang&lt;/strong&gt;, because i work with Golang everyday and in weekend i work with Unity3d on my game (I will write about my game too).&lt;/p&gt;
-
-&lt;p&gt;I choosed Github Pages to serve my blog because first of all it&amp;rsquo;s free and i don&amp;rsquo;t need to pay for server and other stuff. second because i know my blog gonna be availbe forever on Github :)&lt;/p&gt;
-
-&lt;p&gt;And if you want to know who am i or contact with me, please check &lt;strong&gt;About me&lt;/strong&gt; page.&lt;/p&gt;
-
-&lt;p&gt;Please consider that i&amp;rsquo;m not a native English speaker, and there will be lots of grammer problems in my posts,  so if you found any grammer problem in my posts, please comment about it or email me and i will edit my post and improve my English skill :)&lt;/p&gt;
 </description>
     </item>
     
