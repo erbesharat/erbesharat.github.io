@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://erbesharat.github.io/about/</loc>
+    <loc>http://erbesharat.github.io/blog/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://erbesharat.github.io/post/hello-world/</loc>
+    <loc>http://erbesharat.github.io/blog/post/hello-world/</loc>
     <lastmod>2018-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://erbesharat.github.io/tags/blog/</loc>
-    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://erbesharat.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://erbesharat.github.io/tags/hello-world/</loc>
+    <loc>http://erbesharat.github.io/blog/tags/blog/</loc>
     <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erbesharat.github.io/post/</loc>
+    <loc>http://erbesharat.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erbesharat.github.io/blog/tags/hello-world/</loc>
     <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erbesharat.github.io/tags/</loc>
+    <loc>http://erbesharat.github.io/blog/post/</loc>
     <lastmod>2018-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erbesharat.github.io/</loc>
+    <loc>http://erbesharat.github.io/blog/tags/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erbesharat.github.io/blog/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
