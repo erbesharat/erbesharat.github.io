@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erbesharat.github.io/blog/general/hello-world/</loc>
-    <lastmod>2019-08-24T02:53:02+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://erbesharat.github.io/blog/general/hello-world2/</loc>
+    <loc>https://erbesharat.github.io/blog/txtdirect/local-vanity-urls/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erbesharat.github.io/blog/general/hello-world3/</loc>
+    <loc>https://erbesharat.github.io/blog/general/hello-world/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -30,7 +25,7 @@
   
   <url>
     <loc>https://erbesharat.github.io/blog/</loc>
-    <lastmod>2019-08-24T02:53:02+04:30</lastmod>
+    <lastmod>2016-09-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

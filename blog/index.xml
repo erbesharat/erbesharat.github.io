@@ -12,29 +12,20 @@
     
     
     <item>
+      <title>Fancy vanity URIs on your machine using TXTDirect</title>
+      <link>https://erbesharat.github.io/blog/txtdirect/local-vanity-urls/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erbesharat.github.io/blog/txtdirect/local-vanity-urls/</guid>
+      <description>When I started working on my first issue on TXTDirect I had no idea how to even setup and use the project. Didn&amp;rsquo;t know anything about DNS and its concepts and was looking for a quick way to get familiar with the project. With the help of my colleagues I was able to start an instance CoreDNS and setup TXTDirect on my laptop. After running the dependencies and TXTDirect, it was the time to implement a simple scenario to see how it works.</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>https://erbesharat.github.io/blog/general/hello-world/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://erbesharat.github.io/blog/general/hello-world/</guid>
-      <description>This is going to be a new beginning. I decided to start writing after a long time and this time everything is different. This time it&amp;rsquo;s my personal blog, not a magazine and also it&amp;rsquo;s gonna be in English. It will probably be a lot more challenging for me cause English is not my first language and also I&amp;rsquo;m planning to write a few series that are much more technical than my previous articles.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://erbesharat.github.io/blog/general/hello-world2/</link>
-      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erbesharat.github.io/blog/general/hello-world2/</guid>
-      <description>This is going to be a new beginning. I decided to start writing after a long time and this time everything is different. This time it&amp;rsquo;s my personal blog, not a magazine and also it&amp;rsquo;s gonna be in English. It will probably be a lot more challenging for me cause English is not my first language and also I&amp;rsquo;m planning to write a few series that are much more technical than my previous articles.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://erbesharat.github.io/blog/general/hello-world3/</link>
-      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erbesharat.github.io/blog/general/hello-world3/</guid>
       <description>This is going to be a new beginning. I decided to start writing after a long time and this time everything is different. This time it&amp;rsquo;s my personal blog, not a magazine and also it&amp;rsquo;s gonna be in English. It will probably be a lot more challenging for me cause English is not my first language and also I&amp;rsquo;m planning to write a few series that are much more technical than my previous articles.</description>
     </item>
     
